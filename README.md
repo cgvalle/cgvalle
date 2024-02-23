@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Carlos Valle</h1>
-<h3 align="center">An engineer working on Neuroprosthesis</h3>
+<h3 align="center">An Engineer Specializing in Neuroprosthesis</h3>
 
-- 🔭 I’m currently working on **Neuroprosthesis for communication**
+<p align="center">I'm a dedicated engineer with a passion for developing cutting-edge Neuroprosthesis solutions. Currently, I'm deeply involved in research and development to enhance communication for individuals using Brain-Computer Interfaces (BCIs). With a strong foundation in data science, my work spans across innovative decoding approaches for BCIs to extract meaningful signals for communication aids.</p>
 
-- 👯 I’m looking to collaborate on **decoding approaches for Brain-Computer interfaces**
+- 🔭 I’m currently working as a Postdoctoral Researcher at **iHelth**.
+- 🌱 I’m currently expanding my expertise in **Data Science**, applying analytical skills to multiple fields.
+- 🚀 Check out my project on **"Metricas del Sentido del Humor"** at [esdh.cvalle.dev](http://esdh.cvalle.dev).
+- 📫 How to reach me: **cgvalle@uc.cl**
 
-- 📫 How to reach me **cgvalle@uc.cl**
+<p align="center">I'm eager to connect with professionals and researchers who share a passion for the intersection of technology, healthcare, and data science. Let's collaborate to push the boundaries of what's possible in Neuroprosthesis and Brain-Computer Interfaces.</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
