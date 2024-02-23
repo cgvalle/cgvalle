@@ -3,7 +3,7 @@
 
 <p align="center">I'm a dedicated engineer with a passion for developing cutting-edge Neuroprosthesis solutions, Deep Learning and Distributed computing .</p>
 
-- 🔭 I’m currently working as a Postdoctoral Researcher at **iHelth**.
+- 🔭 I’m currently working as a Postdoctoral Researcher at **iHealth**.
 - 🌱 I’m currently expanding my expertise in **Data Science**, applying analytical skills to multiple fields.
 - 🚀 Check out my project on **"Metricas del Sentido del Humor"** at [esdh.cvalle.dev](http://esdh.cvalle.dev).
 - 📫 How to reach me: **cgvalle@uc.cl**
