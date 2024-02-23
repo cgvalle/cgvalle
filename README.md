@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Valle</h1>
 <h3 align="center">An Engineer Specializing in Neuroprosthesis</h3>
 
-<p align="center">I'm a dedicated engineer with a passion for developing cutting-edge Neuroprosthesis solutions. Currently, I'm deeply involved in research and development to enhance communication for individuals using Brain-Computer Interfaces (BCIs). With a strong foundation in data science, my work spans across innovative decoding approaches for BCIs to extract meaningful signals for communication aids.</p>
+<p align="center">I'm a dedicated engineer with a passion for developing cutting-edge Neuroprosthesis solutions, Deep Learning and Distributed computing .</p>
 
 - 🔭 I’m currently working as a Postdoctoral Researcher at **iHelth**.
 - 🌱 I’m currently expanding my expertise in **Data Science**, applying analytical skills to multiple fields.
