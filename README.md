@@ -8,11 +8,11 @@
 <p align="center">Me dedico a desarrollar soluciones prácticas en ciencia de datos, aprendizaje automático y procesamiento distribuido. Me interesa especialmente todo lo relacionado con análisis de datos, despliegue de modelos y el uso de herramientas como CI/CD y Kubernetes.</p>
 
 
-  •	🔭 Actualmente soy Investigador Postdoctoral en iHealth.
-  •	🌱 Sigo aprendiendo y aplicando técnicas de machine learning y data science en distintos contextos.
-  •	🧠 También he tenido la oportunidad de participar en desarrollos de neuroprótesis y tecnologías para rehabilitación.
-  •	🚀 Hace poco trabajé en un proyecto sobre “Métricas del Sentido del Humor”, disponible en esdh.cvalle.dev.
-  •	📫 Me puedes contactar en: cgvalle@uc.cl
+* 🔭 Actualmente soy Investigador Postdoctoral en iHealth.
+* 🌱 Sigo aprendiendo y aplicando técnicas de machine learning y data science en distintos contextos.
+* 🧠 También he tenido la oportunidad de participar en desarrollos de neuroprótesis y tecnologías para rehabilitación.
+* 🚀 Hace poco trabajé en un proyecto sobre “Métricas del Sentido del Humor”, disponible en esdh.cvalle.dev.
+* 📫 Me puedes contactar en: cgvalle@uc.cl
 
 
 <h3 align="left">Lenguajes y herramientas que uso frecuentemente:</h3>  
